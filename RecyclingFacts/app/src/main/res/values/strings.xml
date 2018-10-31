@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">Recycling Facts</string>
+    <string name="recycling_facts_activity_title">Recycling Facts</string>
+    <string name="give_me_what_you_have">Give me what you have</string>
+    <string name="thousands_of_animals_are_dying_because_of_the_plastic_bags_that_looks_like_jellyfish">Thousands of animals are dying because of the plastic bags that looks like jellyfish</string>
+    <string name="button_pressed">Button pressed</string>
+    <string name="app_started">App started</string>
+    <string name="tweet_the_fact">tweet the fact</string>
+
+    <string name="fact_1">95% of the worlds information is still stored on paper, most of it is not used again</string>
+    <string name="fact_2">Recycling plastic bottle provides enough energy to light the lamp capacity of 60 watts for 6 hours</string>
+    <string name="fact_3">Thousands of marine creatures die due to swallowing plastic bags that resemble jellyfish</string>
+    <string name="fact_4">Each year, Americans throw bottles, enough to reach the moon and return to it 20 times</string>
+    <string name="fact_5">Recycling a ton of plastic can save about 2,000 gallons of gasoline</string>
+    <string name="fact_6">The beginning of 2015, all New Yorkers have to recycle electronic devices or face a fine of $100</string>
+    <string name="fact_7">Recycling aluminum tray can save enough energy to run a TV for two hours</string>
+    <string name="fact_8">Recycling a ton of paper maintains 17 trees</string>
+    <string name="fact_9">Recycling aluminum can  returns it to the store shelf within 60 days</string>
+    <string name="fact_10">Start recycling by reducing the use of plastic</string>
+
+
+    <string-array name="facts">
+        <item>@string/fact_1</item>
+        <item>@string/fact_2</item>
+        <item>@string/fact_3</item>
+        <item>@string/fact_4</item>
+        <item>@string/fact_5</item>
+        <item>@string/fact_6</item>
+        <item>@string/fact_7</item>
+        <item>@string/fact_8</item>
+        <item>@string/fact_9</item>
+        <item>@string/fact_10</item>
+    </string-array>
+
+    <string name="com.twitter.sdk.android.CONSUMER_KEY" tools:ignore="ExtraTranslation">hhWv0TMmppConG6bgAFyA0h0d</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET" tools:ignore="ExtraTranslation">0dyFoQ9RSy1qDKtx366u7qayy5HXjXmoYkHY5VDykmhTCmmVRe</string>
+
+</resources>

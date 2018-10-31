@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_vertical"
+    tools:context=".Details">
+
+
+    <ImageView
+        android:id="@+id/TypeImage"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:scaleType="fitXY" />
+
+    <TextView
+        android:id="@+id/country"
+        android:layout_below="@id/TypeImage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="200dp"
+        android:padding="5dp"
+        android:textSize="22sp" />
+
+    <TextView
+        android:id="@+id/description"
+        android:layout_below="@id/country"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/share"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="264dp"
+        android:padding="15dp"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/share"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:layout_alignParentBottom="true"
+        android:textAllCaps="true"
+        android:background="@color/colorPrimary"
+        android:text="Share With"/>
+
+
+</RelativeLayout>

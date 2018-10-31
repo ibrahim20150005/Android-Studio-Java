@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Recycling Facts</string>
+    <string name="recycling_facts_activity_title">حقائق إعادة التدوير</string>
+    <string name="give_me_what_you_have">أعطني من ما عندك</string>
+    <string name="thousands_of_animals_are_dying_because_of_the_plastic_bags_that_looks_like_jellyfish"> الاف المخلوقات البحرية تموت بسبب ابتلاعها أكياس البلاستيك التي تشبه قنديل البحر</string>
+    <string name="button_pressed">تم ضغط الزر</string>
+    <string name="app_started">تم التشغيل</string>
+    <string name="tweet_the_fact">تغريد الحقيقة</string>
+
+    <string name="fact_1">95% من معلومات العالم لاتزال مخزنه على الورق واغلبها لاتتم مشاهدته مرة اخرى</string>
+    <string name="fact_2">اعادة تدوير قاروة بلاستيك يوفر طاقة كافية لاضاءة مصباح بقدرة 60 واط لمدة 6 ساعات</string>
+    <string name="fact_3">الاف المخلوقات البحرية تموت بسبب ابتلاعها اكياس البلاستيك التي تشبه قنديل البحر</string>
+    <string name="fact_4">في كل عام يرمي الامريكان قوارير وزجاجات كافية لوصول القمر والعودة اليه 20 مره</string>
+    <string name="fact_5">اعادة تدوير طن من البلاستيك يمكن ان يوفر حوالي 2000 غالون من البنزين</string>
+    <string name="fact_6"> بداية من عام 2015 جميع سكان نيويورك عليهم اعادة تدوير الاجهزة الالكترونية والا سيواجهون غرامه مقدارها 100 دولار</string>
+    <string name="fact_7">اعادة تدوير علبة المنيوم يمكن ان يوفر طاقة تكفي لتشغيل تلفاز لساعتين</string>
+    <string name="fact_8">اعادة تدوير طن من الورق يحافظ على 17 شجره</string>
+    <string name="fact_9">اعادة تدوير علبة المنيوم يمكن ان يعيدها الى رف متجر خلال 60 يوم</string>
+    <string name="fact_10">إبدأ إعادة التدوير بتقليل استخدامك للبلاستك</string>
+
+    <string name="com.twitter.sdk.android.CONSUMER_KEY" tools:ignore="ExtraTranslation">hhWv0TMmppConG6bgAFyA0h0d</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET" tools:ignore="ExtraTranslation">0dyFoQ9RSy1qDKtx366u7qayy5HXjXmoYkHY5VDykmhTCmmVRe</string>
+
+
+
+</resources>
